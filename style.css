@@ -1,0 +1,63 @@
+.flo{
+    float: right;
+    background-color:#f5fffa;
+    width: 1300px;
+    margin: 10px;
+    
+
+
+}
+  img{
+    float: left;
+    height: 650px;
+    margin-right: 50px;
+
+  }
+  main{
+    background-color: darkgrey;
+  }
+  .cep{
+   border:1px solid darkgrey;
+   border-radius: 5px;
+    padding-right: 135px;
+    
+  }
+  .cep:hover{
+    background-color:silver;
+
+  }
+button{
+  width: 219px;
+   border-radius: 3px;
+  background-color:lawngreen;
+}
+a{
+  text-decoration: none;
+  font-size: 15px;
+  
+}
+a:hover{
+  color: brown;
+
+}
+.cabecalho {
+  padding: 10px;
+  background-color: ;
+
+}
+.cabecalho .logo{
+  display: inline-block;
+}
+.cabecalho nav{
+  float: right;
+}
+.cabecalho nav li{
+  display: inline-block;
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+  margin: 4px;
+}
+.deverson{
+  color: chartreuse;
+}
